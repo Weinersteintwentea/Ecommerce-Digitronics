@@ -8,7 +8,7 @@ Installation Steps:-
 
 2.Download this project.
 
-3.Let's assume that you have installed so create a folder in htdocs folder named ecom and paste this files and folders in ecom.
+3.Let's assume that you have installed Xampp so create a folder in htdocs folder named ecom and paste this files and folders in ecom.
 
 4.Import ecom.sql file in phpmyadmin.
 
