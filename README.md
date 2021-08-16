@@ -2,7 +2,7 @@
 
 This is an ecommerce website which is developed using php and mysql which has end user section and admin section in end user section a user can search a product, add/delete that product to/from the cart,create a new account and login through it because during checkout we have added a constraint that only registered user can proceed to order a product, user can also edit their personal details and track shipment status; In admin a admin can add other vendors/user,  monitor and control all the activities of website.
 
-Installation Steps:-
+# Installation Steps:-
 
 1.Download Xampp/Lampp/Wampp.
 
