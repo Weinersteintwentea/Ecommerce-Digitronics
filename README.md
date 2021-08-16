@@ -18,5 +18,7 @@ This is an ecommerce website which is developed using php and mysql which has en
 
 7.Visit ``` http://localhost:8080/ecom/admin_area/ ``` for admin panel and default credentials for admin are :- 
 
-``` username=Admin@ac.in 
-password=Admin123 ```
+``` 
+username=Admin@ac.in 
+password=Admin123 
+```
